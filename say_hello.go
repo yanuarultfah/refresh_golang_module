@@ -1,5 +1,5 @@
 package refreshgolangmodule
 
 func SayHello() string {
-	return "hello"
+	return "hello add tag"
 }
