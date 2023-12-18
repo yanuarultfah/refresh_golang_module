@@ -1,5 +1,5 @@
 package refreshgolangmodule
 
-func SayHello() string {
+func SayHello(name string) string {
 	return "hello add tag"
 }
